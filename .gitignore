@@ -1,7 +1,3 @@
-/microservice
-/config.yml
-/config*.local.yml
-
 *.log
 *.pem
 
