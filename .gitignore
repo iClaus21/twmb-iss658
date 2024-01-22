@@ -1,0 +1,9 @@
+/microservice
+/config.yml
+/config*.local.yml
+
+*.log
+*.pem
+
+# Editor directories and files
+.idea
